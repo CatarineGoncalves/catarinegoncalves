@@ -79,6 +79,4 @@ Tem um projeto criativo, uma interface diferente ou uma ideia que parece imposs�
 
 <br/><br/>
 
-<sub>Feito com 💜, música alta e provavelmente CSS demais.</sub>
-
 </div>
