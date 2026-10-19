@@ -1,95 +1,84 @@
 <div align="center">
-  <img height="150" src="https://tse4.mm.bing.net/th?id=OIG2.E98ADo8Dx8ACNHi.CNqS&pid=ImgGn" />
+
+<img src="./assets/cath-hero-2026.svg" alt="Catarine Gonçalves — Creative Developer" width="100%" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/catarinegoncalves/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=C4B5FD" alt="LinkedIn"/></a>
+<a href="https://www.twitch.tv/caaabritinho"><img src="https://img.shields.io/badge/Twitch-111827?style=for-the-badge&logo=twitch&logoColor=C4B5FD" alt="Twitch"/></a>
+<a href="mailto:ccatarinegoncalves@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=F472B6" alt="Enviar email"/></a>
+
+<br/><br/>
+
+**Design com personalidade. Código com propósito.** ✦
+
+*Building meaningful interfaces at the intersection of technology, art and imagination.*
+
 </div>
+
+---
+
+### `01 / sobre mim`
+
+Oi! Eu sou a **Cath**, desenvolvedora **Front-end** de São Paulo. 💜
+
+Trabalho com aplicações web, interfaces responsivas e experiências digitais. Gosto de transformar ideias em produtos que sejam **bonitos, acessíveis e agradáveis de usar** — sem esquecer da organização e da performance do código.
+
+Atualmente, exploro cada vez mais o universo de **Creative Development**: animações, experiências imersivas, 3D e storytelling visual.
+
+- 🛠️ **No dia a dia:** Vue 3, Quasar, JavaScript, TypeScript e integrações com APIs.
+- 🎨 **No laboratório criativo:** React, Next.js, motion, 3D e UI/UX.
+- 🪐 **Meu lado autoral:** universos fictícios, identidade visual e projetos que misturam arte + tecnologia.
+
+### `02 / minha stack`
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/catarinegoncalves/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn logo" />
-  </a>
-  <a href="https://www.twitch.tv/caaabritinho" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="25" alt="Twitch logo" />
-  </a>
-  <a href="mailto:ccatarinegoncalves@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail logo" />
-  </a>
-  <a href="https://wa.me/5511987160753" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="25" alt="WhatsApp logo" />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=vue,ts,js,react,nextjs,html,css,tailwind,nodejs,firebase,figma,git&perline=6&theme=dark" alt="Vue, TypeScript, JavaScript, React, Next.js, HTML, CSS, Tailwind, Node.js, Firebase, Figma e Git" />
+
+<br/><br/>
+
+![Quasar](https://img.shields.io/badge/Quasar-1A1B27?style=flat-square&logo=quasar&logoColor=00B4FF)
+![Vite](https://img.shields.io/badge/Vite-1A1B27?style=flat-square&logo=vite&logoColor=BD93F9)
+![GitHub](https://img.shields.io/badge/GitHub-1A1B27?style=flat-square&logo=github&logoColor=F8FAFC)
+![Three.js](https://img.shields.io/badge/Three.js-1A1B27?style=flat-square&logo=threedotjs&logoColor=F8FAFC)
+
 </div>
+
+### `03 / projetos em destaque`
+
+| Projeto | O que você vai encontrar | Tecnologias |
+| :--- | :--- | :--- |
+| [**🌌 The Sparks Brothers**](https://github.com/CatarineGoncalves/TheSparksBrothers) | Um universo autoral com exploração de planetas, efeitos visuais e narrativa interativa. | Next.js · React · TypeScript · Motion |
+| [**✨ Portfólio criativo**](https://github.com/CatarineGoncalves/new-portifolio) | Uma experiência pessoal com estética dark, animações e uma cena 3D interativa. | React · Vite · Three.js · Tailwind |
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/catarinegoncalves/count.svg?" />
+
+[**↗ Explorar meus repositórios**](https://github.com/CatarineGoncalves?tab=repositories)
+
 </div>
 
-<h1 align="center">Olá, hello, konnichiwa 👋</h1>
+### `04 / um pouco além do código`
 
-<h3 align="left">👩‍💻 About Me</h3>
+```js
+const cath = {
+  code: ["front-end", "creative development"],
+  inspirations: ["arte", "música", "design", "mundos imaginários"],
+  currentlyExploring: ["motion", "3D", "interfaces memoráveis"],
+  motto: "Make it work. Make it beautiful. Make it feel alive."
+};
+```
 
-<p align="left">
-I'm Catarine Gonçalves from São Paulo, Brazil.<br><br>
-- 🔭 I work as a Front-End Developer with experience in JavaScript, HTML, CSS, Vue.js, React.js, and Node.js.<br>
-- 📚 I'm currently learning Java and Spring Boot, while also deepening my knowledge of agile methodologies.<br>
-- ⚡ In my free time, I stream on Twitch.
-</p>
+### `05 / vamos criar algo?`
 
-<h3 align="left">🛠 Languages and Tools</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="Slack logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="Trello logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
-</div>
-
-<h3 align="left">🔥 My Stats</h3>
+Tem um projeto criativo, uma interface diferente ou uma ideia que parece impossível? Adoro esse tipo de desafio.
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=catarinegoncalves&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub streak stats" />
+
+<a href="https://www.linkedin.com/in/catarinegoncalves/"><img src="https://img.shields.io/badge/Let's_connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vamos conversar no LinkedIn"/></a>
+
+<br/><br/>
+
+<sub>Feito com 💜, música alta e provavelmente CSS demais.</sub>
+
 </div>
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Latest Medium posts" />
-</div>
-
-<img src="https://raw.githubusercontent.com/catarinegoncalves/catarinegoncalves/output/snake.svg" alt="Snake animation" />
